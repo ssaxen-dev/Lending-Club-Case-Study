@@ -54,8 +54,8 @@ Hence we will use concepts of EDA learned to find the way to avoid lending money
 
 
 ## Contact
-Created by [@ssaxen-dev] - feel free to contact me!
-Created by [@vivekk-g] - feel free to contact me!
+- Created by [@ssaxen-dev] - feel free to contact me!
+- Created by [@vivekk-g] - feel free to contact me!
 
 
 <!-- Optional -->
