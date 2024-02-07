@@ -49,12 +49,13 @@ Hence we will use concepts of EDA learned to find the way to avoid lending money
 ## Acknowledgements
 
 - This project was done as part of upgrad's assignment on uding concepts of EDA on Lending Club Case Study
-- References - Geek for Geek, Googgle, Pandas Doc, Upgrad's class notes, Live notes from class & lecture recordings
+- References - Geek for Geek, Google, Pandas Doc, Upgrad's class notes, Live notes from class & lecture recordings
 - This is a group case study done together by Shantanu Saxena & Vivek Goswami as part of EDA Assignment for Upgrad's Masters in ML & AI - IIIT Bangalore
 
 
 ## Contact
 Created by [@ssaxen-dev] - feel free to contact me!
+Created by [@vivekk-g] - feel free to contact me!
 
 
 <!-- Optional -->
